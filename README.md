@@ -5,3 +5,4 @@
 - Bridge
 - Factory
 - Singleton
+- Strategy
