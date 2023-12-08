@@ -6,3 +6,4 @@
 - Factory
 - Singleton
 - Strategy
+- Flyweight
