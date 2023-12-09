@@ -8,3 +8,4 @@
 - Strategy
 - Flyweight
 - Command
+- Observer
