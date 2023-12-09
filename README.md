@@ -7,3 +7,4 @@
 - Singleton
 - Strategy
 - Flyweight
+- Command
