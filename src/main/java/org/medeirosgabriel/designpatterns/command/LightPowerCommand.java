@@ -1,7 +1,5 @@
 package org.medeirosgabriel.designpatterns.command;
 
-import javax.sound.midi.Receiver;
-
 public class LightPowerCommand implements SmartHouseCommand {
 
     private SmartHouseLight light;

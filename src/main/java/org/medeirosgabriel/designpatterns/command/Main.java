@@ -1,8 +1,5 @@
 package org.medeirosgabriel.designpatterns.command;
 
-import org.medeirosgabriel.designpatterns.bridge.Radio;
-import org.medeirosgabriel.designpatterns.bridge.TV;
-
 public class Main {
 
     public static void main(String[] args) {
