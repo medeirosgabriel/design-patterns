@@ -9,3 +9,4 @@
 - Flyweight
 - Command
 - Observer
+- Memento
