@@ -10,3 +10,5 @@
 - Command
 - Observer
 - Memento
+- State
+- Template
