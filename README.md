@@ -1,4 +1,4 @@
-# (Learning Design Patterns)[https://refactoring.guru/design-patterns]
+# [Learning Design Patterns](https://refactoring.guru/design-patterns)
 ## Some Implementations Of Design Patterns
 
 - Adapter
